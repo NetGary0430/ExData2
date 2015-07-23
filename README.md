@@ -16,7 +16,7 @@ Data
 
 The data for this assignment are available from the course web site as a single zip file:
 
-Data for Peer Assessment [29Mb]
+```Data for Peer Assessment [29Mb]```
 The zip file contains two files:
 
 PM2.5 Emissions Data (summarySCC_PM25.rds): This file contains a data frame with all of the PM2.5 emissions data for 
